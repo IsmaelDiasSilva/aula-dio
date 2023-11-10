@@ -1,5 +1,3 @@
-
-let numero = prompt("Por favor, insira um número:");
 console.log("Classificador de nivel do heroi")
 let nome = "baka"
 let QuantiXp = 1334
